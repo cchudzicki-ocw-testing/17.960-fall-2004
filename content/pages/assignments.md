@@ -349,14 +349,14 @@ _(1) How might Waltz respond to the claim that liberal states "have yet to engag
 {{< anchor "Student" >}}{{< /anchor >}}Student Response Papers
 --------------------------------------------------------------
 
-Paper on Waltz (Courtesy of Chris Lebron. Used with permission.) ({{< resource_link 7f6449f7-06af-cfea-f378-61dcd5245bcd "PDF" >}})
+Paper on Waltz (Courtesy of Chris Lebron. Used with permission.) ({{% resource_link 7f6449f7-06af-cfea-f378-61dcd5245bcd "PDF" %}})
 
-Paper on Waltz (Courtesy of Caitlin Talmadge. Used with permission.) ({{< resource_link 245e4000-1c76-2200-ecc5-3d4380a27042 "PDF" >}})
+Paper on Waltz (Courtesy of Caitlin Talmadge. Used with permission.) ({{% resource_link 245e4000-1c76-2200-ecc5-3d4380a27042 "PDF" %}})
 
-Paper on Allison/Zelikow (Courtesy of Paul Staniland. Used with permission.) ({{< resource_link 8d73b6d0-c99d-2c0b-47bc-51f7dddbbaa8 "PDF" >}})
+Paper on Allison/Zelikow (Courtesy of Paul Staniland. Used with permission.) ({{% resource_link 8d73b6d0-c99d-2c0b-47bc-51f7dddbbaa8 "PDF" %}})
 
-Paper on Allison (Courtesy of Caitlin Talmadge. Used with permission.) ({{< resource_link 1763d578-be25-c3b4-7088-cc0910d77b85 "PDF" >}})
+Paper on Allison (Courtesy of Caitlin Talmadge. Used with permission.) ({{% resource_link 1763d578-be25-c3b4-7088-cc0910d77b85 "PDF" %}})
 
-Paper on Bull (Courtesy of Paul Staniland. Used with permission.) ({{< resource_link 17dce726-2df0-3655-bd9c-affb17e9b804 "PDF" >}})
+Paper on Bull (Courtesy of Paul Staniland. Used with permission.) ({{% resource_link 17dce726-2df0-3655-bd9c-affb17e9b804 "PDF" %}})
 
-Paper on Elster (Courtesy of Chris Lebron. Used with permission.) ({{< resource_link fececfeb-942f-ba3a-3735-56813aca2b09 "PDF" >}})
+Paper on Elster (Courtesy of Chris Lebron. Used with permission.) ({{% resource_link fececfeb-942f-ba3a-3735-56813aca2b09 "PDF" %}})
